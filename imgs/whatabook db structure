@@ -1,0 +1,31 @@
+
+
+"Customer": [
+    {
+        "customerID": "c001",
+        "firstName": "John",
+        "lastName": "Smith",
+        "wishlistItems": [
+            {
+                "title": "The Hobbit",
+                "genre": "Fantasy",
+                "author": "JRR Tolkien",
+                "bookId": "1001",
+            },
+            {
+                "title": "Fellowship of the Ring",
+                "genre": "Fantasy",
+                "author": "JRR Tolkien",
+                "bookId": "1002",
+            },
+            {
+                "title": "The Call of the Wild",
+                "genre": "Adventure",
+                "author": "Jack London",
+                "bookId": "1006",
+            }
+        ]
+    }
+]
+
+
