@@ -150,6 +150,11 @@ h4 {
     border-radius: .25in;
 }
 
+video {
+  border: 2px solid #FFBE21;
+  width: 600px;
+}
+
 * {
   margin: 0;
   padding: 0;
