@@ -152,9 +152,12 @@ h4 {
 
 video {
   border: 2px solid #FFBE21;
-  width: 600px;
+  text-align:center;
+  padding: 10px;
+  margin-right: 
 }
 
+.diagrams
 * {
   margin: 0;
   padding: 0;
@@ -391,5 +394,9 @@ body {
 }
 
 .diagrams {
- width: 300px;
+width: 300px;
+ border: solid 3px #FFBE21;
+ margin: 20px;
+ padding: 10px;
+ border-radius: .2in;
 }
