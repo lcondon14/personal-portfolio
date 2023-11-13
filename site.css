@@ -400,3 +400,12 @@ width: 300px;
  padding: 10px;
  border-radius: .2in;
 }
+
+button {
+padding: 5px 10px;
+background-color: #477DFF;
+border-radius: 10px;
+text-decoration: none;
+color: white;
+style:none;
+}

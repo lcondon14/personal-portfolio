@@ -1,5 +1,5 @@
 <!-- 
-    Title: condon-two-pizza-rule.html
+    Title: condon-ci.html
     Author: Laurel Condon
     Date: 29 October 2023
     Description: Presentation two pizza
@@ -27,16 +27,15 @@
             <div class="card-title"><h1>Web-430 Presentations</h1></div>
     <br />
     <div id="card">
-        <h3 class="center">The Two-Pizza Rule </h3>
+        <h3 class="center">CI </h3>
         <br />
         <div class="video-item">
           <video controls autoplay reload="none" style="width:400px;">
-            <source src="../..devops-presentaions/presentation-2" type="video/mp4"/>
+            <source src="../devops-presentations/Presentation-4.m4v" type="video/mp4"/>
           </video>
         </div>
       </div>
-  
-
+    
       <footer-pres-component></footer-pres-component>
     </body>
     </html>
