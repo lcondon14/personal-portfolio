@@ -7,18 +7,18 @@ Description: Site styles for Personal Portfolio
 
  /* Header Styles */
 .nav-header {
-    width:100%;
-    height: 350px;
+    width: 100%;
+    height: 200px;
     background-color: white;
     margin: auto;
  }
  .nav-header img {
  display: block;
- margin:auto;
+ margin: auto;
  width: 80%
  }
 #navBar li ul {
-  width:100%;
+
  margin-bottom: 60px;
   text-align: center;
   border-radius: 10px;
@@ -26,11 +26,11 @@ Description: Site styles for Personal Portfolio
 #navBar li {
     display: inline-block;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     font-display: none;
 }
 #navBar li a {
-    padding: 5px 10px;
+    padding: 5px 5px;
     background-color: #477DFF;
     border-radius: 10px;
     text-decoration: none;
